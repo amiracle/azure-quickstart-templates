@@ -39,7 +39,7 @@
     },
     "criblVersion": {
       "type": "string",
-      "defaultValue": "0.28.4",
+      "defaultValue": "4.7.1",
       "metadata": {
         "description": "The cribl version to launch"
       }
