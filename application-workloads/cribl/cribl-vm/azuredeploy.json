@@ -39,9 +39,16 @@
     },
     "criblVersion": {
       "type": "string",
-      "defaultValue": "0.28.4",
+      "defaultValue": "4.7.1",
       "metadata": {
         "description": "The cribl version to launch"
+      }
+    },
+    "STREAM_URL": {
+      "type": "string",
+      "defaultValue": "https://cribl.io/download",
+      "metadata": {
+        "description": "Cribl CDN to download code"
       }
     },
     "vmSize": {
