@@ -44,6 +44,13 @@
         "description": "The cribl version to launch"
       }
     },
+    "STREAM_URL": {
+      "type": "string",
+      "defaultValue": "https://cribl.io/download",
+      "metadata": {
+        "description": "Cribl CDN to download code"
+      }
+    },
     "vmSize": {
       "type": "string",
       "defaultValue": "Standard_D2S_V3",
